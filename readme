@@ -1,0 +1,2 @@
+chmod +x pt.rb
+./pt.rb --help
